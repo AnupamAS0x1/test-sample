@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/AnupamAS0x1/test-codecpetjs-bdd-tests",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "github:hubs-foundation/three.js",
     "node-fetch": "^3.3.2"
   }
 }
